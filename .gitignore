@@ -1,0 +1,5 @@
+index.js
+dist
+node_modules
+.theia
+yarn.lock
